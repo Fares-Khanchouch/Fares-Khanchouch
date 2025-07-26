@@ -6,7 +6,9 @@
 - 🎓 Studied at ISTY UVSQ — Institut des Sciences et Techniques des Yvelines  
 - 🔍 Currently seeking opportunities in Cloud & DevOps  
 - 🌱 Passionate about automation, infrastructure as code, and scalable systems  
-- 🤝 Open to collaborating on open-source and enterprise projects  
+- 🤝 Open to collaborating on open-source and enterprise projects
+- 🌍 Portfolio & projects: [fareskhanchouch.com](https://fareskhanchouch.com)
+
 
 ### 🛠 Tech Stack
 
